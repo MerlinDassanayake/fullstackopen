@@ -1,2 +1,2 @@
 # fullstackopen
-Repo of my exercise solutions for fullstackopen
+Repo of my exercise solutions for fullstackopen :)
